@@ -26,7 +26,6 @@
 |zebra        |stripes	are neat	|$1
 |test	        |測試	              |$3333
 
-:smile:
-:man_student:
 
-![NKUST](nkust.png "NKUST")
+![NKUST](nkust.png "NK![logo](https://github.com/user-attachments/assets/f11c3882-3cf5-41e3-bb1e-66f3ca01a615)
+UST")
