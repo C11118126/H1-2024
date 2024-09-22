@@ -27,5 +27,4 @@
 |test	        |測試	              |$3333
 
 
-![NKUST](nkust.png "NK![logo](https://github.com/user-attachments/assets/f11c3882-3cf5-41e3-bb1e-66f3ca01a615)
-UST")
+![NKUST]![logo](https://github.com/user-attachments/assets/873936f0-233a-48a1-9c3c-700a08a1a657)
