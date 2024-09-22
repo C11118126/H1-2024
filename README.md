@@ -27,4 +27,4 @@
 |test	        |測試	              |$3333
 
 
-![NKUST]![logo](https://github.com/user-attachments/assets/873936f0-233a-48a1-9c3c-700a08a1a657)
+![logo](https://github.com/user-attachments/assets/873936f0-233a-48a1-9c3c-700a08a1a657)
